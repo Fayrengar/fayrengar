@@ -6,7 +6,6 @@ I'm Fabrizio González, a software developer with Artificial Intelligence
 Some things about me:
 
 - 🔭 I’m currently working as a Frelancer
-- 🌱 I’m currently learning Angular
 - 👯 I’m availability to enter other projects
 
 <!--
@@ -14,4 +13,5 @@ Some things about me:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+- 🌱 I’m currently learning Angular -->
